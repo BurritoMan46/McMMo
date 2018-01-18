@@ -1,1 +1,11 @@
-
+---
+name: McMMo
+version: 1.0.0
+api: [3.0.0-ALPHA10]
+author: BurritoMan46
+main: McMMo/Main
+description: McMMo
+commands:
+ mcmmo:
+  description: mcmmo help
+...
